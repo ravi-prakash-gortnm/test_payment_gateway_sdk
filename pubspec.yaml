@@ -1,6 +1,8 @@
 name: test_payment_gateway_sdk
 description: A new Flutter package project.
 version: 0.0.1
+author: Ravi Prakash
+homepage: https://github.com/ravi-prakash-gortnm/test_payment_gateway_sdk
 # homepage:
 
 environment:
